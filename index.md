@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Khufu's Lair
 
-You can use the [editor on GitHub](https://github.com/yahiabeethoven/EnvironmentalStorytellingRepo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Pages editor](https://github.com/yahiabeethoven/EnvironmentalStorytellingRepo/edit/gh-pages/index.md).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -28,10 +27,14 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+Visual and user experience documentation
+  A screen recording of the app experience (embedded from youtube/vimeo)
+  Multiple screenshots of key cinematic moments
+Explanation of the premise of the storyworld and the concept for this particular space
+Reflect on your experience (use your progress reports for material)
+  Process documentation
+    WIP screenshots, sketches, etc from along the way
+    Playtesting documentation
+  Challenges you face and things you learned to overcome them and/or how you would do things differently in the future
+  Any final thoughts
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yahiabeethoven/EnvironmentalStorytellingRepo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
