@@ -2,36 +2,19 @@
 
 [Pages editor](https://github.com/yahiabeethoven/EnvironmentalStorytellingRepo/edit/gh-pages/index.md).
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-1. Visual and user experience documentation
+Visual and user experience documentation
   Demo Video can be found [here] (https://youtu.be/DNKENUIB7RE). 
   Some screenshots from the scene
   <img width="1440" alt="Screen Shot 2022-02-19 at 12 18 59 AM" src="https://user-images.githubusercontent.com/58369022/154758074-978b2537-7f69-48a7-8127-06ce7c42ce9a.png">
-
+<img width="1440" alt="Screen Shot 2022-02-19 at 12 17 49 AM" src="https://user-images.githubusercontent.com/58369022/154759576-7c7dd7bd-3539-45f3-b59d-218dbf881bcf.png">
+<img width="1440" alt="Screen Shot 2022-02-19 at 12 17 14 AM" src="https://user-images.githubusercontent.com/58369022/154759587-b9e817cc-2f1c-4d6d-9edf-99e0e9640b55.png">
+<img width="1440" alt="Screen Shot 2022-02-19 at 12 16 48 AM" src="https://user-images.githubusercontent.com/58369022/154759600-8bc50e72-2798-41de-b324-98c1642a0102.png">
+<img width="1440" alt="Screen Shot 2022-02-19 at 12 15 27 AM" src="https://user-images.githubusercontent.com/58369022/154759612-d081893f-1599-460e-85d7-2c030f7e5a94.png">
+<img width="1440" alt="Screen Shot 2022-02-19 at 12 15 05 AM" src="https://user-images.githubusercontent.com/58369022/154759622-82ab09d7-e5e8-4ed2-b748-000f0e0b6668.png">
+<img width="1440" alt="Screen Shot 2022-02-19 at 12 14 45 AM" src="https://user-images.githubusercontent.com/58369022/154759634-3964c462-f746-4180-b7ef-239d35dc4d6b.png">
+<img width="1440" alt="Screen Shot 2022-02-19 at 12 14 17 AM" src="https://user-images.githubusercontent.com/58369022/154759640-1993ec9e-d0e5-42aa-a91f-8feeea44eb1f.png">
+<img width="1440" alt="Screen Shot 2022-02-19 at 12 12 40 AM" src="https://user-images.githubusercontent.com/58369022/154759647-7286d973-d854-40cc-b244-8d265e58125a.png">
+<img width="1440" alt="Screen Shot 2022-02-19 at 12 12 23 AM" src="https://user-images.githubusercontent.com/58369022/154759653-79606c8f-fbb2-41c1-9401-e455a44b4f99.png">
 
   This storyworld exists in the ancient Egyptian city of Giza where my version of the Great Pyramid of Giza (of the Pharaoh Khufu) still stands today. I built a large desert terrain on which the 3 pyramids stand, and I modified Kufu's pyramid so it has a big base at the bottom that is like a crypt where the dead bodies lie. I made one of the walls transparent so that the player is able to see the other 2 pyramids (Khafraa and Menkawraa) clearly while also being able to observe the numerous artifacts that I built within the crypt. These artifacts include a wall engraved with heiroglyphics, 3 pharaonic coffins that are lit from below, a golden treasure chest surrounded by gold coins, a statue of a queen kneeling on the ground, half the body of a pharaoh, and a huge scarab beetle engraving on one of the walls. This storyworld aims to spread cultural awareness about the iconic ancient Egyptian civilization through a fun and interesting virtual reality.
 Reflect on your experience (use your progress reports for material)
