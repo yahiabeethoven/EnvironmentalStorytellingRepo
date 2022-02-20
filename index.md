@@ -3,7 +3,7 @@
 [Pages editor](https://github.com/yahiabeethoven/EnvironmentalStorytellingRepo/edit/gh-pages/index.md).
 
 Visual and user experience documentation
-  Demo Video can be found [here] (https://youtu.be/DNKENUIB7RE). 
+  Demo Video can be found [here](https://youtu.be/DNKENUIB7RE). 
   Some screenshots from the scene
   <img width="1440" alt="Screen Shot 2022-02-19 at 12 18 59 AM" src="https://user-images.githubusercontent.com/58369022/154758074-978b2537-7f69-48a7-8127-06ce7c42ce9a.png">
 <img width="1440" alt="Screen Shot 2022-02-19 at 12 17 49 AM" src="https://user-images.githubusercontent.com/58369022/154759576-7c7dd7bd-3539-45f3-b59d-218dbf881bcf.png">
